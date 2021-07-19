@@ -2,10 +2,11 @@
  
 ###  Hello world!  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 - 👽 I'm a recent Systems Analyst graduate that is looking for opportunities that will give more experience and knowledge related to WEB and mobile development.
-- :computer: I'm mobile developer!
+- I recently started learning more about Test Automation and how to use that on a real System.
+- :computer: I'm mobile developer and a Tester!
 - :house_with_garden: I’m from Brazil.
-- :books: I’m currently learning a lot of things related to technology.
-- :outbox_tray: 2021 Goals: Start working with mobile develpoment using flutter
+- :books: I’m currently learning QA stuff and automation.
+- :outbox_tray: 2021 Goals: Start working with mobile develpoment using flutter and finish my automation project on my workplace(i'm enjoying it)
 
 ## About me
 
