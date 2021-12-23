@@ -6,7 +6,9 @@
 - :computer: I'm mobile developer and a Tester!
 - :house_with_garden: I’m from Brazil.
 - :books: I’m currently learning QA stuff and automation.
-- :outbox_tray: 2021 Goals: Start working with mobile develpoment using flutter and finish my automation project on my workplace(i'm enjoying it)
+- :outbox_tray: 2021 Goals: Start working with mobile develpoment using flutter and finish my automation project on my workplace(i'm enjoying it);
+
+Att about 2021: I Loved working as a QA and now i'm focused on it, loving learning about test automation and quality.
 
 ## About me
 
