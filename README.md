@@ -1,11 +1,7 @@
 
  
 ###  Hello world!  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-- 👽 I'm a recent Systems Analyst graduate that is looking for opportunities that will give more experience and knowledge related to WEB and mobile development.
-- I recently started learning more about Test Automation and how to use that on a real System.
-- :computer: I'm mobile developer and a QA!
-- :house_with_garden: I’m from Brazil.
-- :books: I’m currently working as a QA with automation
+
 
 ## About me
 
